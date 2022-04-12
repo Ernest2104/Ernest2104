@@ -1,4 +1,4 @@
-<img src="header_banner-6.jpg" alt="banner"><img>
+<img src="header_banner.jpg" alt="banner"><img>
 <h3 align="center">A passionate fullstack developer & systems engineer from Argentina</h3>
 
 - 🔭 I’m currently working on **e-commerce**
