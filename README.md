@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernesto</h1>
+<img src="header_banner-6.jpg" alt="banner"><img>
 <h3 align="center">A passionate fullstack developer & Systems Engineer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
