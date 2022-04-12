@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ernesto</h1>
 <img src="header_banner-6.jpg" alt="banner"><img>
-<h1 align="center">Hi 👋, I'm Ernesto</h1>
 <h3 align="center">A passionate fullstack developer & systems engineer from Argentina</h3>
 
 - 🔭 I’m currently working on **e-commerce**
