@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **e-commerce**
 
-- 💬 Ask me about **Javascript, React js, Node js**
+- 💬 Ask me about **Javascript, React js, Redux, Node js**
 
 - 📫 How to reach me **villagra9@gmail.com**
 
