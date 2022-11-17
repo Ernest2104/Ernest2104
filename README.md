@@ -27,3 +27,10 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
+</br>
+<div align="row" >
+      <img src="henry-food01.jpg" width="333" height="205"  />
+      <img src="henry-food02.jpg" width="333" height="205"  />
+      <img src="henry-food03.jpg" width="333" height="205"  />
+      <img src="henry-food04.jpg" width="333" height="205"  />
+</div>
