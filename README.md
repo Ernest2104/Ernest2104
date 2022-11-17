@@ -22,3 +22,8 @@ SPA (Single-page Application) that integrates all the technologies seen in the b
 In the application you can search for recipes, order them by score and by name, filter them by type of diet and origin, and even add your own recipes to your database.<br>
 Fully develop this application both frontend and backend, with the following technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+</br>
+<a href="https://github.com/Ernest2104/PI-Food">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
