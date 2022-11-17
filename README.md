@@ -27,6 +27,13 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL <br>
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       "My Ticket" Deploy
 </a>
+</br>
+<div align="row" >
+      <img src="my-ticket01.jpg" width="333" height="205"  />
+      <img src="my-ticket02.jpg" width="333" height="205"  />
+      <img src="my-ticket03.jpg" width="333" height="205"  />
+      <img src="my-ticket04.jpg" width="333" height="205"  />
+</div>
 
 ### Henry Food :green_salad: :broccoli: :poultry_leg:
 <p align="justify">SPA (Single-page Application) that integrates all the technologies seen in the bootcamp and consumes external API (https://spoonacular.com/food-api). In the application you can search for recipes, order them by score and by name, filter them by type of diet and origin, and even add your own recipes to your database.
