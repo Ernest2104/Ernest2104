@@ -23,8 +23,7 @@
 Used technology:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL <br>
 </br>
-["My Ticket" Deploy](https://client-concerts.vercel.app/){target="_blank"}
-<a href="https://client-concerts.vercel.app/" target="_blank" fontSize="34">
+<a href="https://client-concerts.vercel.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       "My Ticket" Deploy
 </a>
@@ -42,7 +41,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL <br>
 Fully develop this application both frontend and backend, with the following technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 </br>
-<a href="https://frontend-pi-food-production.up.railway.app/" target="_blank" fontSize="34">
+<a href="https://frontend-pi-food-production.up.railway.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       "Henry Food" Deploy
 </a>
