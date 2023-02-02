@@ -41,9 +41,9 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL <br>
 Fully develop this application both frontend and backend, with the following technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 </br>
-<a href="https://github.com/Ernest2104/PI-Food">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
-      Link a repo
+<a href="https://frontend-pi-food-production.up.railway.app/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      "Henry Food" Deploy
 </a>
 </br>
 <div align="row" >
